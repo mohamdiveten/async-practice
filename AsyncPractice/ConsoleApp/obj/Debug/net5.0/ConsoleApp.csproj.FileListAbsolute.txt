@@ -1,0 +1,16 @@
+C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
