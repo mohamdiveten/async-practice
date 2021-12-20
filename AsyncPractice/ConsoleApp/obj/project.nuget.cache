@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "E2ufY6aom7nUoI+odoQDNWdg3HWgaq/oXyjceTxH1i8W7TjIF374r3rzE1ZI66CyH+OR4ENB8WwBIiLQdo1Ujg==",
+  "dgSpecHash": "EOT8yLADV7lGNMKHQ5W5dyw7mReBS7GMAjct3Q+grOtY4DEp9qoUAvUc2O1UkqLR4sGbxOGO8ypy5c0AdlAALA==",
   "success": true,
   "projectFilePath": "C:\\Users\\mohamdi\\source\\repos\\async-practice\\AsyncPractice\\ConsoleApp\\ConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mohamdi\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

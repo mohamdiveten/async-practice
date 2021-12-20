@@ -14,3 +14,5 @@ C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\obj\Debug\
 C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
 C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
 C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\bin\Debug\net5.0\System.Reactive.dll
+C:\Users\mohamdi\source\repos\async-practice\AsyncPractice\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
