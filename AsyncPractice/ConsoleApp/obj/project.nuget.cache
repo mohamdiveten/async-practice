@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "xmymgPQDz74BRMID5WrUPgGbtNPEadWLHdUfX/Q+0OF8yH0RD+pCCkqmRXC+yCiRp2CrqN6mfp6wqjPQySbmtw==",
+  "dgSpecHash": "teVcD72wcxx9zI5jETMml+6Ln/s4q7ZKgBrdcHvC2y39TLMhQ1x+mJcwnCKAtULv0IhyQPsfk+m8pj5yLC60bQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\mohamdi\\source\\repos\\async-practice\\AsyncPractice\\ConsoleApp\\ConsoleApp.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\mohamdi\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\mohamdi\\source\\repos\\async-practice\\AsyncPractice\\ConsoleApp\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
